@@ -152,4 +152,4 @@ awards:
 
 Hello, I am a student of Food and Nutritional Science at Macau University of Science and Technology. I am from Fujian, China, and my sign is Earth. My MBTI is I S/N F/T J. You can call me by my English name Anna, or my nickname Yolo which means to live in the present moment. My research interests include food quality testing, food research and development, and food nutrition.
 
-Slogan：
+Slogan：The two most important things in life are living beautifully and having fun.
