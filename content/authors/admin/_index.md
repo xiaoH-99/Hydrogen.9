@@ -68,13 +68,12 @@ work:
     company_logo: ''
     date_start: 2024-02-19
     date_end: 2024-05-10
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Experimental consumables and equipment preparation
       - Experimental classroom guidance 
       - Hygiene and equipment cleaning after the lab course
-  - position: Internship Assistant in the R&D 
-   Department
+  - position: Internship Assistant in the R&D Department
     company_name: Fujian Xianzhilou Biological Science and Technology Co.Ltd
     company_url: http://www.xianzhilou.com/
     company_logo: ''
