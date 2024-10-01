@@ -88,7 +88,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Office
+  - name: Technical Skills
+    items:
+      - name: Office
         description: ''
         percent: 70
         icon: Document writing, Slideshow and Spreadsheet Preparation
