@@ -72,7 +72,7 @@ work:
       Responsibilities include:
       - Experimental consumables and equipment preparation
       - Experimental classroom guidance 
-      - After-class lab preparation
+      - Hygiene and equipment cleaning after the lab course
   - position: Internship Assistant in the R&D 
    Department
     company_name: Fujian Xianzhilou Biological Science and Technology Co.Ltd
