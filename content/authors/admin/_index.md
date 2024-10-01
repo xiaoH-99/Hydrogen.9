@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: HUANG JINGYI
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Huang Jing Yi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jing Yi
+last_name: Huang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧊
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,133 +20,110 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: undergraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Macau University of Science and Technology
+    url: https://www.must.edu.mo/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xiaoH0309@outlook.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
+  - icon: brands/facebook
+    url: https://www.facebook.com/
+  - icon: brands/weixin
+    url: https://web1.wechat.com/cgi-bin/mmwebwx-bin/webwxindex?t=v2/index
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://github.com/
+    
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Food Quality Testing
+  - Food Research and Development
+  - Food Nutrition
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BFNS Food and Nutrition Science
+    institution: Macau University of Science and Technology
+    date_start: 2021-09-01
+    date_end: 2025-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.59/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Organic Chemistry, Biochemistry and Molecular Biology,Statistics
+      - Food Toxicology, Food Processing Technology, Food Safety and Quality Control
+      - Fundamental Nutrition, Nutrition and Diseases, Clinical Nutrition
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Teaching Assitant
+    company_name: Macau University of Science and Technology
+    company_url: https://www.must.edu.mo/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-02-19
+    date_end: 2024-05-10
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Experimental consumables and equipment preparation
+      - Experimental classroom guidance
+      - After-class lab preparation
+  - position: Internship Assistant in the R&D 
+   Department
+    company_name: Fujian Xianzhilou Biological Science and Technology Co.Ltd
+    company_url: http://www.xianzhilou.com/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-06-17
+    date_end: 2024-07-17
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Product Research and Development
+      - Product Composition and Quality Testing
+      - Strain Culture Work
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
+  - name: Office
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 70
+        icon: Document writing, Slideshow and Spreadsheet Preparation
+      - name: EndNote
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 85
+        icon: Literature import and citation
+      - name: IBM SPSS Statistics
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: Data Analysis
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Handwork
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 90
+        icon: Cooking, baking, painting, Lego，pencraft
+      - name: Sports
         description: ''
-        percent: 100
-        icon: cat
+        percent: 90
+        icon: volleyball, skating, running
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: iphone and camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: English
+    percent: 70
+  - name: Cantonese
     percent: 25
 
 # Awards.
@@ -154,33 +131,24 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Dean's Honor List (2022-2023)
+    url: ''
+    date: '2023-12'
+    awarder: Macau University of Science and Technology
+    icon: Macau University of Science and Technology
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      During my sophomore year from 2022 to 2023, my GPA for two semesters exceeded 3.7, and I was selected into the “Dean’s Outstanding Student List” of the Faculty of Medicine of Macau University of Science and Technology.
+  - title: Dean's Honor List (2023-2024)
+    url: ''
+    date: '2024-12'
+    awarder: Macau University of Science and Technology
+    icon: Macau University of Science and Technology
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      During my junior year from 2023 to 2024, my GPA for two semesters was over 3.7, and I was ranked in the top ten of my grade, and was selected into the "Dean's Outstanding Student List" of the Faculty of Medicine of Macau University of Science and Technology.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I am a student of Food and Nutritional Science at Macau University of Science and Technology. I am from Fujian, China, and my sign is Earth. My MBTI is I S/N F/T J. You can call me by my English name Anna, or my nickname Yolo which means to live in the present moment. My research interests include food quality testing, food research and development, and food nutrition.
+
+Slogan：
