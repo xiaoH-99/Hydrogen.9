@@ -134,14 +134,14 @@ languages:
 awards:
   - title: Dean's Honor List (2022-2023)
     url: ''
-    date: '2023-12'
+    date: '2023-12-05'
     awarder: Macau University of Science and Technology
     icon: Macau University of Science and Technology
     summary: |
       During my sophomore year from 2022 to 2023, my GPA for two semesters exceeded 3.7, and I was selected into the “Dean’s Outstanding Student List” of the Faculty of Medicine of Macau University of Science and Technology.
   - title: Dean's Honor List (2023-2024)
     url: ''
-    date: '2024-12'
+    date: '2024-12-02'
     awarder: Macau University of Science and Technology
     icon: Macau University of Science and Technology
     summary: |
