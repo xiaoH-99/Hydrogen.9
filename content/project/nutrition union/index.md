@@ -1,7 +1,7 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: MUST Nutrition Society of Students’ Union
+date: 2022-09-10
+external_link: ''
 tags:
   - Hugo
   - Wowchemy
