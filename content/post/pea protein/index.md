@@ -1,7 +1,10 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 From Extraction to Functionalization:Exploring Emerging Technologies in Pea Protein Processing
+for Enhanced Techno-functional Benefits
+summary: In this review, I was responsible for researching literature on the effects of emerging technologies—such as high-power
+ultrasound, pulsed electric field, high hydrostatic pressure, and microwaves—on pea protein quality including amino acid
+composition, digestibility, and bioavailability. Based on the relevant data, I created comparative tables including conventional and emerging technologies, their application conditions, and effects of processing technologies on pea protein quality to compare the impacts of different technologies on pea protein.
+date: 2024-05-10
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
