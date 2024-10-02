@@ -35,22 +35,11 @@ sections:
       title: 'Five-year plans after undergraduate study'
       subtitle: ''
       text: |-
-        2025-08-31 Postgraduate study (Hong Kong/Singapore)
-        2026-08-31 Graduate and work in a laboratory or food company (stay in the area where I studied/return to my hometown)
-        2030-08-31 Obtained a technical certificate in nutrition and obtained a better salary and position in the original work unit
+        - 2025-08-31 Postgraduate study (Hong Kong/Singapore)
+        - 2026-08-31 Graduate and work in a laboratory or food company (stay in the area where I studied/return to my hometown)
+        - 2030-08-31 Obtained a technical certificate in nutrition and obtained a better salary and position in the original work unit
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     content:
       title: Recent Publications
