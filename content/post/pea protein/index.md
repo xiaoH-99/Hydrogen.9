@@ -1,6 +1,6 @@
 ---
 title:  From Extraction to Functionalization:Exploring Emerging Technologies in Pea Protein Processing for Enhanced Techno-functional Benefits
-summary: ''
+summary: 'Final examination assignment for Food Research and Development course'
 date: 2024-05-10
 math: true
 authors:

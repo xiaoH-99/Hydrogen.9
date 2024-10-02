@@ -1,6 +1,6 @@
 ---
 title: The Impact of Controlled-Release Chlorine Dioxide Gas on the Safety and Quality Enhancement of Navel Oranges:A Comprehensive Microbial and Commercial Simulation Study
-summary: ''
+summary: 'Final examination assignment for Rsaearch Design and Paper Writing course'
 date: 2023-12-14
 authors:
   - admin

@@ -1,6 +1,6 @@
 ---
 title: The American Ginseng:A Review of a Chinese Food-Medicine
-summary: ''
+summary: 'Final examination assignment for Nutriology and Dietoherapy of Chinese Medicine course'
 date: 2023-12-14
 authors:
   - admin
