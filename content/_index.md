@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: Plans
     content:
       title: 'Five-year plans after undergraduate study'
       subtitle: ''
@@ -41,6 +42,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: Papers
     content:
       title: Recent Publications
       text: ""
@@ -51,7 +53,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: research
+    id: Researchs
     content:
       title: Recent research
       subtitle: ''
