@@ -2,85 +2,136 @@
 title:  From Extraction to Functionalization:Exploring Emerging Technologies in Pea Protein Processing for Enhanced Techno-functional Benefits
 summary: In this review, I was responsible for researching literature on the effects of emerging technologies—such as high-power ultrasound, pulsed electric field, high hydrostatic pressure, and microwaves—on pea protein quality including amino acid composition, digestibility, and bioavailability. Based on the relevant data, I created comparative tables including conventional and emerging technologies, their application conditions, and effects of processing technologies on pea protein quality to compare the impacts of different technologies on pea protein.
 date: 2024-05-10
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
+math: true
 authors:
   - admin
-  - Ted
-
 tags:
-  - Academic
-  - Hugo Blox
+  - Hugo
+  - Hugo Blox Builder
   - Markdown
+image:
+  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-Welcome 👋
+[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
-{{< toc mobile_only=true is_open=true >}}
+**Embed videos, podcasts, code, LaTeX math, and even test students!**
 
-## Overview
+On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## Video
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-### Get Started
+**Youtube**:
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+    {{</* youtube D2vj0WcvH5c */>}}
 
-## Crowd-funded open-source software
+{{< youtube D2vj0WcvH5c >}}
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+**Bilibili**:
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+    {{</* bilibili BV1WV4y1r7DF */>}}
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+{{< bilibili BV1WV4y1r7DF >}}
 
-## Ecosystem
+**Video file**
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
-## Inspiration
+    {{</* video src="my_video.mp4" controls="yes" */>}}
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+## Podcast
 
-## Features
+You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+    {{</* audio src="ambient-piano.mp3" */>}}
 
-## Themes
+Try it out:
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+{{< audio src="ambient-piano.mp3" >}}
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+## Test students
 
-## License
+Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+```markdown
+{{</* spoiler text="👉 Click to view the solution" */>}}
+You found me!
+{{</* /spoiler */>}}
+```
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+renders as
+
+{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+
+## Math
+
+Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
+
+```yaml
+features:
+  math:
+    enable: true
+```
+
+To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
+
+Example **math block**:
+
+```latex
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+```
+
+renders as
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
+
+Example **multi-line math** using the math linebreak (`\\`):
+
+```latex
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+```
+
+renders as
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}
+$$
+
+## Code
+
+Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+
+
+    ```python
+    import pandas as pd
+    data = pd.read_csv("data.csv")
+    data.head()
+    ```
+
+renders as
+
+```python
+import pandas as pd
+data = pd.read_csv("data.csv")
+data.head()
+```
+
+## Inline Images
+
+```go
+{{</* icon name="python" */>}} Python
+```
+
+renders as
+
+{{< icon name="python" >}} Python
+
+## Did you find this page helpful? Consider sharing it 🙌
