@@ -6,7 +6,7 @@ date: "2024-04-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "Applying"
+publishDate: "2024.10.10"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +23,7 @@ abstract: The food packaging is a practical and novel pasta storage container. I
 summary: ''
 
 tags:
-- Patent (applying)
+- Patent
 
 featured: true
 
