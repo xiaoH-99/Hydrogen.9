@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Authorization certificate
-  url: http://example.org
+  url: https://share.weiyun.com/EUeuO9eK
 url_pdf: https://share.weiyun.com/7ABaJSAb
 url_project: ''
 url_slides: ''
