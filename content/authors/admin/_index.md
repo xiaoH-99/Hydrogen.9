@@ -55,7 +55,7 @@ education:
     date_start: 2021-09-01
     date_end: 2025-08-31
     summary: |
-      GPA: 3.59/4.0
+      GPA: 3.57/4.0
 
       Courses included:
       - Organic Chemistry, Biochemistry and Molecular Biology,Statistics
