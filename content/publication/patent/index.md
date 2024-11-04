@@ -1,12 +1,12 @@
 ---
-title: "Adjustable Pasta Storage Cylinder"
+title: "Adjustable Pasta Storage Cylinder[P]. CN221939006U."
 authors:
 - admin
-date: "2024-04-16T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024.10.10"
+publishDate: "2024.11.01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,8 +29,8 @@ featured: true
 
 links:
 - name: Authorization certificate
-  url: https://share.weiyun.com/EUeuO9eK
-url_pdf: https://share.weiyun.com/7ABaJSAb
+  url: https://kdocs.cn/l/ciI436SySOV1
+url_pdf: https://kdocs.cn/l/cnlJz3vIXoOL
 url_project: ''
 url_slides: ''
 url_source: ''
