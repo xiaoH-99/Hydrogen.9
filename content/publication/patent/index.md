@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Authorization certificate
-  url: https://kdocs.cn/l/ciI436SySOV1
+  url: https://w.afbcs.cn/EeZkbS
 url_pdf: https://kdocs.cn/l/cnlJz3vIXoOL
 url_project: ''
 url_slides: ''
