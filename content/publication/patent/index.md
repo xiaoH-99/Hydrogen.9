@@ -28,9 +28,9 @@ tags:
 featured: true
 
 links:
-- name: Authorization certificate
-  url: https://cdn2.me-qr.com/pdf/87ee2174-cc8f-48c2-a943-eea0ad2a8c5f.pdf
-url_pdf: https://kdocs.cn/l/cnlJz3vIXoOL
+- name: pdf
+  url: https://cdn2.me-qr.com/pdf/aa279836-fc40-4b8e-954c-a04389944587.pdf
+url_authorization certificate: https://cdn2.me-qr.com/pdf/87ee2174-cc8f-48c2-a943-eea0ad2a8c5f.pdf
 url_project: ''
 url_slides: ''
 url_source: ''
