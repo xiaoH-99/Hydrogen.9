@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Authorization certificate
-  url: https://w.afbcs.cn/EeZkbS
+  url: https://cdn2.me-qr.com/pdf/87ee2174-cc8f-48c2-a943-eea0ad2a8c5f.pdf
 url_pdf: https://kdocs.cn/l/cnlJz3vIXoOL
 url_project: ''
 url_slides: ''
