@@ -150,6 +150,6 @@ awards:
 
 ## About Me
 
-Hello, I am a student of Food and Nutritional Science at Macau University of Science and Technology. I am from Fujian, China, and my zodiac sign is Taurus. My current MBTI is INTJ. You can call me by my English name Anna, or my nickname Yolo which means to live in the present moment. My research interests include food quality testing, food research and development, and food nutrition.
+Hello, I am a student of Food and Nutritional Science at Macau University of Science and Technology. I am from Fujian, China, and my zodiac sign is Taurus. My current MBTI is INTJ. You can call me by my English name Anna, or my nickname Yolo which means to live in the present moment. My research interests include food quality testing, food research and development, and food nutrition.If you want to contact me, you can find my contact information in my CV. It is my honor to let you know me through this website.
 
 Slogan: The two most important things in life are living beautifully and having fun.

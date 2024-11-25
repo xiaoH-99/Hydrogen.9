@@ -58,5 +58,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is the final assignment of my previous course "Food Packaging Technology".
