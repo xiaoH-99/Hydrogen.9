@@ -6,8 +6,6 @@ authors:
   - admin
 tags:
   - Researchs
-link:
-  url_pdf: https://cdn2.me-qr.com/pdf/aa279836-fc40-4b8e-954c-a04389944587.pdf
 image:
   caption: ''
 ---
