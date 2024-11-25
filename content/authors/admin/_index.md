@@ -106,15 +106,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Handwork
+      - name: Handwork🍪🎨🧩
         description: ''
         percent: 90
-        icon: Cooking, baking, painting, Lego，pencraft
-      - name: Sports
+        icon: Cooking, baking, painting, Lego,pencraft
+      - name: Sports 🏐⛸️
         description: ''
         percent: 90
         icon: volleyball, skating, running
-      - name: Photography
+      - name: Photography📷
         description: ''
         percent: 80
         icon: iphone and camera
@@ -125,7 +125,7 @@ languages:
   - name: English
     percent: 70
   - name: Cantonese
-    percent: 25
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -152,4 +152,4 @@ awards:
 
 Hello, I am a student of Food and Nutritional Science at Macau University of Science and Technology. I am from Fujian, China, and my sign is Earth. My MBTI is I S/N F/T J. You can call me by my English name Anna, or my nickname Yolo which means to live in the present moment. My research interests include food quality testing, food research and development, and food nutrition.
 
-Slogan：The two most important things in life are living beautifully and having fun.
+Slogan: The two most important things in life are living beautifully and having fun.
