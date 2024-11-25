@@ -123,9 +123,9 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 70
+    percent: 80
   - name: Cantonese
-    percent: 30
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
